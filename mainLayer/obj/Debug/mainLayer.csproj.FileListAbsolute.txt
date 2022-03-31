@@ -1,0 +1,6 @@
+C:\Users\ASIM\Desktop\heyGetMe\mainLayer\bin\Debug\mainLayer.dll
+C:\Users\ASIM\Desktop\heyGetMe\mainLayer\bin\Debug\mainLayer.pdb
+C:\Users\ASIM\Desktop\heyGetMe\mainLayer\obj\Debug\mainLayer.csprojAssemblyReference.cache
+C:\Users\ASIM\Desktop\heyGetMe\mainLayer\obj\Debug\mainLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASIM\Desktop\heyGetMe\mainLayer\obj\Debug\mainLayer.dll
+C:\Users\ASIM\Desktop\heyGetMe\mainLayer\obj\Debug\mainLayer.pdb
